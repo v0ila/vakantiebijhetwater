@@ -41,7 +41,7 @@
   <section class="hero feature three-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Roompot</h1>
+        <h1 class="title has-text-white heavy shadow">Oostmahorn</h1>
       </div>
     </div>
   </section>
@@ -51,10 +51,8 @@
       <div class="columns">
         <div class="column is-8">
           <div class="content">
-            <h2>Roompot</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <h2>Oostmahorn</h2>
+            <p>TODO</p>
           </div>
         </div>
         <div class="column is-4 has-text-centered">
@@ -72,7 +70,7 @@
     </div>
   </section>
 
-  <section class="section is-small">
+  <section class="section is-small is-smaller">
     <div class="container">
       <div class="columns is-mobile is-multiline has-text-centered">
         <div class="column is-3-desktop is-6-touch">
@@ -100,20 +98,14 @@
       <div class="columns">
         <div class="column is-half">
           <div class="content">
-            <h2>Een Roompot titel</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <h2>Voorzieningen:</h2>
+            <p>TODO</p>
           </div>
         </div>
         <div class="column is-half">
           <div class="content">
-            <h2>Nog Roompot een titel</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <h2>Meer informatie</h2>
+            <p>TODO</p>
           </div>
         </div>
       </div>

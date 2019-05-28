@@ -39,7 +39,7 @@
   <section class="hero feature index-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Overzicht</h1>
+        <h1 class="title has-text-white heavy shadow">Unieke vakantiehuisjes bij het water!</h1>
       </div>
     </div>
   </section>
@@ -47,9 +47,8 @@
   <section class="section is-medium">
     <div class="container">
       <div class="content">
-        <h2>Aanbod</h2>
-        <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in antee in dolor ut justo malesuada
-          ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+        <h2 class="title has-text-weight-bold">Welkom</h2>
+        <h4>TODO Op Ameland en op het Lauwersmeer (Oostmahorn). Hieronder ziet u welke vakantiehuisjes wij verhuren.</h4>
       </div>
     </div>
   </section>
@@ -64,8 +63,7 @@
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about">
-            <a href="one"><p><span class="about-title heavy">Amelanderkaap</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
-              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>
+            <a href="one"><p><span class="about-title heavy">Amelanderkaap</span><br>Op de Amelanderkaap in Hollum verhuren wij 2 appartementen. Deze appartementen liggen dichtbij de zee, het bos en de vuurtoren. Het centrum van Hollum ligt op loopafstand.</p></a>
           </div>
         </div>
         <div class="column is-6-desktop is-hidden-desktop">
@@ -75,8 +73,7 @@
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about has-text-right-desktop">
-            <a href="two"><p><span class="about-title heavy">Boomhiemke</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
-              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a>
+            <a href="two"><p><span class="about-title heavy">Boomhiemke</span><br>Op het vakantiepark Boomhiemke verhuren wij 2 vakantiehuizen. Gelegen aan de buitenrand van het park met terras op het zuiden. Deze huizen liggen nabij het strand, het bos en de vuurtoren. Het centrum van Hollum ligt op loopafstand.</p><a>
           </div>
         </div>
         <div class="column is-6-desktop is-hidden-touch">
@@ -91,17 +88,14 @@
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about">
-            <a href="three"><p><span class="about-title heavy">Roompot</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
-              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non
-              facilisis nulla. Quisque in dolor ut justo malesuada ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non
-              mollis sem mauris quis velit.</p></a>
+            <a href="three"><p><span class="about-title heavy">Oostmahorn</span><br>In Oostmahorn verhuren wij een vakantiehuis op het water. Gelegen op het Lauwersmeer met de haven op loopafstand. In het naastgelegen dorp Anjum is een grote supermarkt te vinden. Oostmahorn ligt in de buurt van Lauwersoog en Dokkum. Ideaal als u de rust zoekt van de natuur en de gezelligheid van een mooi stadje. </p></a>
           </div>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section is-medium">
+  <!--section class="section is-medium">
     <div class="container">
       <div class="columns">
         <div class="column is-half">
@@ -124,7 +118,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section-->
 
   <?php
    include 'assets/partials/contact.php';

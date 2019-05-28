@@ -43,9 +43,7 @@
           </a>
         </div>
       </div>
-      <a href="./three" class="navbar-item">Roompot</a>
-      <a href="./four" class="navbar-item">Beschikbaarheid</a>
-
+      <a href="./three" class="navbar-item">Oostmahorn</a>
     </div>
   </div>
 </nav>

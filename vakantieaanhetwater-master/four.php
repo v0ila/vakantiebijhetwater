@@ -72,7 +72,7 @@
     </div>
   </section>
 
-  <section class="section is-small">
+  <section class="section is-small is-smaller">
     <div class="container">
       <div class="columns is-mobile is-multiline has-text-centered">
         <div class="column is-3-desktop is-6-touch">

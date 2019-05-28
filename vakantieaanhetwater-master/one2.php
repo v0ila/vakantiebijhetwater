@@ -11,7 +11,9 @@
   <link rel="stylesheet" href="assets/css/lightbox.min.css">
   <link rel="stylesheet" href="assets/css/dateTimePicker.css">
   <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+
 
   <meta name="description" content="Titel">
   <meta property="og:type" content="website">
@@ -38,10 +40,10 @@
 
   <?php include 'assets/partials/nav.php'; ?>
 
-  <section class="hero feature one-feature is-large fadeIn">
+  <section class="hero feature one2-feature is-large fadeIn">
     <div class="hero-body">
       <div class="container">
-        <h1 class="title has-text-white heavy shadow">Amelanderkaap 2 People</h1>
+        <h1 class="title has-text-white heavy shadow">Amelander Kaap 2 personen</h1>
       </div>
     </div>
   </section>
@@ -51,10 +53,8 @@
       <div class="columns">
         <div class="column is-8">
           <div class="content">
-            <h2>Amelanderkaap</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <h2>Amelander Kaap</h2>
+            <p>Heeft u ook zin in een welverdiende vakantie? Dan is dit appartement op Ameland de ideale bestemming voor uw vakantie. Een modern 2 kamerappartement, op de begaande grond, geschikt voor 4 personen. Het appartement beschikt over 1 slaapkamer met 2 bedden. Daarnaast is er een slaapbank in de woonkamer. Verder is er een badkamer met ligbad. De keuken is voorzien van een combi magnetron , een vaatwasser en een koffiezetapparaat. Het appartement is voorzien van een schuifdeur naar het terras. De auto kan geparkeerd worden naast het appartementencomplex.</p>
           </div>
         </div>
         <div class="column is-4 has-text-centered">
@@ -72,7 +72,7 @@
     </div>
   </section>
 
-  <section class="section is-small">
+  <section class="section is-small is-smaller">
     <div class="container">
       <div class="columns is-mobile is-multiline has-text-centered">
         <div class="column is-3-desktop is-6-touch">
@@ -100,20 +100,41 @@
       <div class="columns">
         <div class="column is-half">
           <div class="content">
-            <h2>Kaap informatie</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <h2>Voorzieningen:</h2>
+            <ul>
+              <li><i class="fas fa-wifi"></i>&nbsp;&nbsp;Wifi</li>
+              <li><i class="fas fa-arrow-down"></i>&nbsp;&nbsp;Gelijkvloers</li>
+              <li><i class="fas fa-smoking-ban"></i>&nbsp;&nbsp;Rookvrij</li>
+              <li><i class="fas fa-tv"></i>&nbsp;&nbsp;Flatscreen tv</li>
+              <li><i class="fas fa-icicles"></i>&nbsp;&nbsp;Koelkast</li>
+              <li><i class="fas fa-wave-square"></i>&nbsp;&nbsp;Combi magnetron</li>
+              <li><i class="fas fa-columns"></i>&nbsp;&nbsp;Vaatwasser</li>
+              <li><i class="fas fa-mug-hot"></i>&nbsp;&nbsp;Koffiezetapparaat</li>
+              <li><i class="far fa-bell"></i>&nbsp;&nbsp;Rookmelder</li>
+            </ul>
           </div>
         </div>
         <div class="column is-half">
           <div class="content">
             <h2>Meer informatie</h2>
-            <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien.
-              Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-              ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+            <p>Iedereen die verblijft in één van de appartementen van de Amelander Kaap mag ook gebruik maken van de faciliteiten van Hotel d’ Amelander Kaap, waaronder:</p>
+            <ul>
+              <li>Overdekt verwarmd zwembad met kinderspeelbad</li>
+              <li>Sauna met dompelbad</li>
+              <li>Solarium met gezichtsbruiner</li>
+              <li>Squashbaan</li>
+              <li>Tennisbaan</li>
+              <li>Voetbalveld en sportzaal</li>
+              <li>Golfbaan (9 holes par-3 A status)</li>
+              <li>Speeltuinen</li>
+              <li>Skatepark naast het hotel</li>
+              <li>Brasserie/restaurant</li>
+              <li>Bar met grootscherm-tv en darts</li>
+              <li>Sfeervolle (vergader-feest) zalen</li>
+              <li>Overdekte fietsenstalling</li>
+              <li>Oplaadpunten E-bike</li>
+              <li>Wasmachine en droger</li>
+            </ul>
           </div>
         </div>
       </div>

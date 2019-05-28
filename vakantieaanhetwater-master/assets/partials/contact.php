@@ -1,29 +1,29 @@
 <section class="section">
   <div class="container">
     <div class="content">
-      <h2>Titel</h2>
+      <h2>Neem contact op</h2>
     </div>
     <div class="columns">
       <div class="column is-half">
         <form id="send">
           <div class="field">
             <div class="control">
-              <input id="send_name" class="input" type="text" placeholder="Name" required>
+              <input id="send_name" class="input" type="text" placeholder="Naam" required>
             </div>
           </div>
           <div class="field">
             <div class="control">
-              <input id="send_email" class="input" type="email" placeholder="Email address" required>
+              <input id="send_email" class="input" type="email" placeholder="Emailadres" required>
             </div>
           </div>
           <div class="field">
             <div class="control">
-              <input id="send_phone" class="input" type="tel" placeholder="Phone number" required>
+              <input id="send_phone" class="input" type="tel" placeholder="Telefoonnummer" required>
             </div>
           </div>
           <div class="field">
             <div class="control">
-              <textarea id="send_message" class="textarea" placeholder="Message" minlength="10" required></textarea>
+              <textarea id="send_message" class="textarea" placeholder="Bericht" minlength="10" required></textarea>
             </div>
           </div>
           <div class="field">

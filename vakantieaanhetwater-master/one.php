@@ -49,9 +49,7 @@
     <div class="container">
       <div class="content">
         <h2>Amelanderkaap</h2>
-        <p>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla, posuere eget elementum vel, egestas non sapien. Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit. Cras maximus dignissim molestie. Etiam imperdiet sit amet nibh a dapibus. Morbi sit amet justo ac justo scelerisque fringilla non facilisis nulla. Quisque in dolor ut justo malesuada
-          ultricies ut et lorem. Nam interdum interdum tempor. Aenean malesuada ipsum vel elit commodo sagittis. Phasellus gravida, ligula vel tempus mattis, nibh lectus aliquam leo, non mollis sem mauris quis velit.</p>
+        <p>Op de Amelander kaap in Hollum verhuren wij 2 appartementen. Deze appartementen liggen dichtbij de zee, het bos en de vuurtoren. Het centrum van Hollum ligt op loopafstand.</p>
       </div>
     </div>
   </section>
@@ -61,24 +59,22 @@
       <div class="columns is-mobile is-multiline huts">
         <div class="column is-6-desktop is-12-touch">
           <figure class="image is-square">
-            <a href="./one2"><img src="assets/img/one/main.jpg"></a>
+            <a href="./one2"><img src="assets/img/one2/main.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about">
-            <a href="./one2"><p><span class="about-title heavy">2 PEOPLE</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
-              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></a>
+            <a href="./one2"><p><span class="about-title heavy">2 personen</span><br>Heeft u ook zin in een welverdiende vakantie? Dan is dit appartement op Ameland de ideale bestemming voor uw vakantie. Een modern 2 kamerappartement, op de begaande grond, geschikt voor 4 personen.</p></a>
           </div>
         </div>
         <div class="column is-6-desktop is-hidden-desktop">
           <figure class="image is-square">
-            <a href="./one4"><img src="assets/img/one/main.jpg"></a>
+            <a href="./one4"><img src="assets/img/one4/main.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
           <div class="content about has-text-right-desktop">
-            <a href="./one4"><p><span class="about-title heavy">4 PEOPLE</span><br>Cras augue dolor, blandit eu consectetur at, venenatis at sem. Pellentesque at dui dolor. Morbi molestie lacus in ante auctor, nec maximus tellus elementum. Pellentesque justo nulla,
-              posuere eget elementum vel, egestas non sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p><a>
+            <a href="./one4"><p><span class="about-title heavy">4 personen</span><br>Heeft u ook zin in een welverdiende vakantie? Dan is dit appartement op Ameland de ideale bestemming voor uw vakantie. Een modern 3 kamerappartement op de eerste verdieping, met vrij uitzicht, geschikt voor 5 personen.</p><a>
           </div>
         </div>
 

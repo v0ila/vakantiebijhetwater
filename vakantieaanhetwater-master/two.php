@@ -61,7 +61,7 @@
       <div class="columns is-mobile is-multiline huts">
         <div class="column is-6-desktop is-12-touch">
           <figure class="image is-square">
-            <a href="./two2"><img src="assets/img/two/main.jpg"></a>
+            <a href="./two2"><img src="assets/img/two2/main.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
@@ -72,7 +72,7 @@
         </div>
         <div class="column is-6-desktop is-hidden-desktop">
           <figure class="image is-square">
-            <a href="./two4"><img src="assets/img/two/main.jpg"></a>
+            <a href="./two4"><img src="assets/img/two4/main.jpg"></a>
           </figure>
         </div>
         <div class="column is-6-desktop is-12-touch">
